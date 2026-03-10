@@ -1,0 +1,98 @@
+{
+  "name": "Creditcoin Tokens",
+  "timestamp": "2026-03-09T17:21:16.099Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 102030,
+      "address": "0x7ab7C6A935Ab2D1437398790C9C0660af62A80b9",
+      "name": "Spacecoin",
+      "symbol": "SPACE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gluwa/Contract-Artifacts/refs/heads/main/SPACE.svg",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "",
+            "originBridgeAddress": "",
+            "destBridgeAddress": ""
+          }
+        },
+        "l1Address": "",
+        "l2GatewayAddress": "",
+        "l1GatewayAddress": ""
+      }
+    },
+    {
+      "chainId": 102030,
+      "address": "0xb41015d1D3603aed12a5f6098A34BeE56808eF45",
+      "name": "Creditcoin Bridged USDT",
+      "symbol": "USDT.C",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gluwa/Contract-Artifacts/refs/heads/main/USDT.C.svg",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "originBridgeAddress": "0xAFcFd97D6bF7397F03E4E366Ba704DD0b5D9f3B0",
+            "destBridgeAddress": "0x3DaD8F3740078A2eBa68746a953Ee7488fA38144"
+          }
+        },
+        "l1Address": "",
+        "l2GatewayAddress": "",
+        "l1GatewayAddress": ""
+      }
+    },
+    {
+      "chainId": 102030,
+      "address": "0x1f40d7292cFBe5Ed4c66aFc60c72f7b1012673df",
+      "name": "Wrapped CTC",
+      "symbol": "WCTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gluwa/Contract-Artifacts/refs/heads/main/CTC.svg",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "",
+            "originBridgeAddress": "",
+            "destBridgeAddress": ""
+          }
+        },
+        "l1Address": "",
+        "l2GatewayAddress": "",
+        "l1GatewayAddress": ""
+      }
+    },
+	{
+      "chainId": 102030,
+      "address": "0x4BEF649249d7B126d1719cF39da01a9729C3FFa2",
+      "name": "Credit USDT",
+      "symbol": "cUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gluwa/Contract-Artifacts/refs/heads/main/cUSDT.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "",
+            "originBridgeAddress": "",
+            "destBridgeAddress": ""
+          }
+        },
+        "l1Address": "",
+        "l2GatewayAddress": "",
+        "l1GatewayAddress": ""
+      }
+    }
+  ],
+  "logoURI": "https://raw.githubusercontent.com/gluwa/Contract-Artifacts/blob/main/CTC_Chain_Square.svg",
+  "tags": {
+    "sourceList": {
+      "name": "Source list url",
+      "description": ""
+    }
+  }
+}
